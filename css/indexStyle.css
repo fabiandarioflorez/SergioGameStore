@@ -12,9 +12,9 @@ body {
 }
 .main-header {
     display: flex;
-    background-color: #0B525B;
+    background-color: #312244;
     justify-content: space-between;
-    background-image: url('../img/fondoHeader.jpg');
+    background-image: url('../img/fondoLluviaPixel.jpg');
     background-position: -50%;
 }
 .container-logo {
